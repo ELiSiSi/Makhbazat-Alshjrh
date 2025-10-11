@@ -1,5 +1,5 @@
 :root {
-  --main-color: #ce0000;
+  --main-color: #1A5C75;
   --secondary-color: #f8f8f8;
 }
 
@@ -19,7 +19,7 @@ body {
   margin: 0;
   padding: 0;
   font-family: 'DroidKufi';
-  background-color: #ce0000;
+  background-color: #1A5C75;
 }
 
 
